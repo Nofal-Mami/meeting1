@@ -11,7 +11,8 @@ app_color = "grey"
 app_email = "m@gmail.com"
 app_license = "MIT"
 
-# Includes in <head>
+#Nofal Mami updated in git hub 
+#Includes in <head>
 # ------------------
 
 # include js, css files in header of desk.html
