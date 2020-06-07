@@ -11,7 +11,7 @@ app_color = "grey"
 app_email = "m@gmail.com"
 app_license = "MIT"
 
-#Nofal Mami updated in git hub 
+#Nofal Mami updated in git hub , then updated locally
 #Includes in <head>
 # ------------------
 
