@@ -84,7 +84,8 @@ doc_events = {
         "after_insert":"meeting.meeting.api.make_orientation_meeting"
     }
 }
-# doc_events = {
+# 
+#doc_events = {
 # 	"*": {
 # 		"on_update": "method",
 # 		"on_cancel": "method",
